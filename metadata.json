@@ -1,0 +1,6 @@
+{
+  "name": "Stone Harbor Project Controls Dashboard",
+  "description": "Pre-construction & buyout controls dashboard for 11200 2nd Ave, Stone Harbor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
